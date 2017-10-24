@@ -1,0 +1,6 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/compiler-cli": "^4.4.6"
+  }
+}
